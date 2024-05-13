@@ -10,3 +10,5 @@ for(i=0; i<6;i++){
         nums.push(userNum);
     }
 }
+
+console.log(nums)
