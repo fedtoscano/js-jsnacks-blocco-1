@@ -6,7 +6,7 @@ const nums=[];
 
 for(i=0; i<6;i++){
     const userNum = Number.parseInt(prompt("Please insert a number"),10);
-    if(userNum%2===0){
+    if(userNum%2===1){
         nums.push(userNum);
     }
 }
